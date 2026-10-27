@@ -159,45 +159,6 @@ Visual Studio Code or another code editor
 
 The runtime and database required by the project
 
-Step 1: Clone the Repository
-
-git clone https://github.com/sharvani801/campus-cart.git
-
-Step 2: Open the Project
-
-cd campus-cart
-
-Open the folder in your preferred code editor.
-
-Step 3: Install Dependencies
-
-Install the dependencies specified by your project's configuration files.
-
-For a Node.js project:
-
-npm install
-
-For a Python project:
-
-pip install -r requirements.txt
-
-Run only the command appropriate to your actual backend and project setup.
-
-Step 4: Configure the Database
-
-Start the database server.
-
-Create the required database.
-
-Configure the connection settings.
-
-Add any required tables or collections.
-
-Keep credentials and secret keys in environment variables rather than committing them to GitHub.
-
-Step 5: Run the Application
-
-Start the backend and frontend using the commands specified in your project configuration. Open the local URL provided by the development server in your browser.
 
 🧪 Testing
 
