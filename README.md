@@ -91,25 +91,3 @@ The response travels back from the database through the backend to the frontend,
 7. The backend sends a response to the frontend.
 8. The frontend displays the result to the user.
 
-## 📂 Project Structure
-
-The exact structure depends on your implementation. A possible organization is:
-
-```text
-Campus-Cart/
-├── frontend/
-│   ├── index.html
-│   ├── css/
-│   ├── js/
-│   └── assets/
-├── backend/
-│   ├── app.py
-│   └── routes/
-├── database/
-├── README.md
-└── requirements.txt
-```
-
-Update this example to match your actual folders and files. For example, a Node.js backend may use `server.js` and `package.json` instead.
-
-## ⚙
