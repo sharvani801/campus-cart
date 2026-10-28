@@ -68,19 +68,19 @@ Note: Keep only the features that are implemented in your current application.
 
 ## 🧰 Technology Stack
 
-**Frontend**
+### Frontend
 - HTML
 - CSS
 - JavaScript
 
-**Backend**
+### Backend
 - Node.js
-- Express.js *(if used in the project)*
+- Express.js
 
-**Database**
-- MongoDB or MySQL *(add the database you actually used)*
+### Database
+- MongoDB
 
-**Development Tools**
+### Development Tools
 - Visual Studio Code
 - Git and GitHub
 
