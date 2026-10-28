@@ -66,35 +66,23 @@ User Interaction: Support shopping-related interactions implemented in the proje
 
 Note: Keep only the features that are implemented in your current application.
 
-🧰 Technology Stack
+## 🧰 Technology Stack
 
-Frontend
+**Frontend**
+- HTML
+- CSS
+- JavaScript
 
-HTML
+**Backend**
+- Node.js
+- Express.js *(if used in the project)*
 
-CSS
+**Database**
+- MongoDB or MySQL *(add the database you actually used)*
 
-JavaScript
-
-Add your frontend framework if used.
-
-Backend
-
-Add your actual backend language and framework, such as Python with Flask or Django, or Node.js with Express.
-
-Database
-
-Add your actual database, such as MySQL or MongoDB.
-
-Development Tools
-
-Visual Studio Code
-
-Git
-
-GitHub
-
-Web browser for testing
+**Development Tools**
+- Visual Studio Code
+- Git and GitHub
 
 🏗️ System Architecture
 
